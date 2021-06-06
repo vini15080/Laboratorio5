@@ -73,6 +73,5 @@ this.SalarioBaseHora = SalarioBaseHora;
 
 	public void adicionarCargo(Funcionario f) {
 		
-	 
 	}
 }
